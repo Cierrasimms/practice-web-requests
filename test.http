@@ -1,0 +1,2 @@
+GET https://api.openweathermap.org/data/2.5/weather?q=london&units=imperial&appid=bfb925e1a5a7720d8ba56413c060edd6
+
